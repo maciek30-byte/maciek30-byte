@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maciek30-byte
 - 👀 I’m interested in Sports and IT :) 
-- 🌱 I’m currently learning  Java Script, React and little C#
-- 💞️ I’m looking to collaborate on First bigger project to Portfolio
+- 🌱 I’m currently learning  Java Script, React, Node.js and little C#
 - 📫 How to reach me maciek29.opozda@gmail.com
 
 <!---
