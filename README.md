@@ -10,6 +10,3 @@ I am currently working in the gambling industry, but I'm looking for new challen
 
 With **Bachelor Drone**, I’m experimenting with everything from mission planning to AI decision-making, using drones to patrol and react to various events. It's a hands-on way for me to expand my knowledge in AI and have some fun with technology at the same time!
 
----
-
-✨ I'm always looking forward to new challenges and opportunities that will push my boundaries and allow me to work on innovative solutions. Let's create something amazing together!
