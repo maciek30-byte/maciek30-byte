@@ -1,6 +1,6 @@
 # Maciek Opozda
 
-## 👋 Welcome to my world of code and drones!
+## 👋 Welcome to My profile!
 
 I'm a Full-Stack Developer passionate about innovative technologies and unmanned aerial vehicles.
 
