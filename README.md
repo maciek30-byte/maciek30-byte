@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to My profile!
 
-I'm a Full-Stack Developer passionate about innovative technologies and unmanned aerial vehicles.
+I'm a Frontend Developer which prettend do be Full-Stack :) passionate about innovative technologies and unmanned aerial vehicles.
 
 ### 💼 Professional Profile
 
