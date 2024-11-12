@@ -28,10 +28,6 @@ As an unmanned aviation enthusiast, I'm developing an advanced system for drone 
 - Simulating scenarios for monitoring, security, and event management
 - Implementing advanced AI algorithms for optimizing drone routes and missions
 
-**[View Project Roadmap](https://github.com/maciek30-byte/Bachelor-Drone-Project)** | **Status:** 🟢 In Progress
-
-> 🚁 **Crashed Drone Counter:** `0` (but February might be a great month to change that 😉✈️💥)
-
 ### 🔬 Currently Working On:
 
 I'm actively developing the "Bachelor Drone" project, which combines my technical skills with my passion for AI and drones. While contributors are not welcome at the moment (due to Bachelor's degree requirements), I'm open to feedback, suggestions, and code reviews!
